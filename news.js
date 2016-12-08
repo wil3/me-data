@@ -4,5 +4,8 @@ var announce = [
 	},
 	{
 		"description": "Hyp3rArmor was well received at New England Security Day. Looking forward to the next one!"
-	}
+	},
+	{
+		"description": "PayBreak has defeated 2 of the 3 most dangerous ransomware of 2016!"
+	},
 ]

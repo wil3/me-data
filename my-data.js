@@ -4,7 +4,7 @@ var profile =
 		"portrait": "my-data/pic.jpg",
 		"name": "William Koch",
 		"position": "Cybersecurity Researcher",
-		"bio": "Hello world! My name is Wil Koch (pronounced 'cook') and I am a third year PhD student at Boston University. I am interested in autonomous malware (a.k.a. bots) and developing defenses for their attacks. Before returning to academia I was involved in a few start-ups and worked as a software engineer. I enjoy writting code and working on software projects. When I'm not behind a screen, depending on the season I'll be out snowboarding, surfing or getting lost somewhere in the woods. ",
+		"bio": "Hello world! My name is Wil Koch (pronounced 'cook') and I am a third year PhD student at Boston University. I am interested in autonomous malware (a.k.a. bots) and developing defenses for their attacks. Before returning to academia I was involved in a few start-ups and worked as a software engineer. I enjoy writing code and working on software projects. When I'm not behind a screen, depending on the season I'll be out snowboarding, surfing or getting lost somewhere in the woods. ",
 		"social" : {
 					"github": "https://github.com/wil3", 
 					"twitter": "https://twitter.com/wil_koch", 
@@ -281,14 +281,14 @@ var profile =
 				"employer": "Sikorsky Aircraft Contractor",
 				"start": "June 2006",
 				"end": "January 2012",
-				"description": "Lead software engineer on software components in the Sikorsky CH-53K Aircrafs Integrated Support System (ISS). Designed and implemented continuous integration system. Responsible for integration between third-party vendors."
+				"description": "Lead software engineer on software components in the Sikorsky CH-53K Aircraft's Integrated Support System (ISS). Designed and implemented continuous integration system. Responsible for integration between third-party vendors."
 			},
 			{
 				"position": "Chairman/Co-founder",
 				"employer": "CT Hackerspace",
 				"start": "August 2010",
 				"end": "August 2011",
-				"description": "Co-founder of Connecticuts hackerspace.",
+				"description": "Co-founder of Connecticut's hackerspace.",
 				"url": "http://www.cthackerspace.com/"
 			}
 

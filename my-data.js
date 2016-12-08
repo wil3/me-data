@@ -1,7 +1,7 @@
 var profile = 
 {
 		"title": "Wil Koch",
-		"portrait": "me-data/pic.jpg",
+		"portrait": "my-data/pic.jpg",
 		"name": "William Koch",
 		"position": "Cybersecurity Researcher",
 		"bio": "Hello world! My name is Wil Koch (pronounced 'cook') and I am a third year PhD student at Boston University. I am interested in autonomous malware (a.k.a. bots) and developing defenses for their attacks. Before returning to academia I was involved in a few start-ups and worked as a software engineer. I enjoy writting code and working on software projects. When I'm not behind a screen, depending on the season I'll be out snowboarding, surfing or getting lost somewhere in the woods. ",
@@ -11,7 +11,7 @@ var profile =
 					"linkedin": "https://www.linkedin.com/in/williamkoch3rd",
 					"keybase": "https://keybase.io/wilkoch",
 					"email": "http://www.google.com/recaptcha/mailhide/d?k=01hMHG3JltR7yEimIcWJvAtg==&c=1hqsuy_ofP7rFxQRbILxxQ==",
-					"resume": "me-data/wilkoch_cv_public.pdf"
+					"resume": "my-data/wilkoch_cv_public.pdf"
 		},
 
 
@@ -118,7 +118,7 @@ var profile =
 				],
 				"publication": "Under review",
 				"date": "November 2016",
-				"url": "me-data/pubs/hyp3rarmor.pdf",
+				"url": "my-data/pubs/hyp3rarmor.pdf",
 				"code": "https://github.com/wil3/hyp3rarmor",
 				"talks": [
 					{
@@ -142,7 +142,7 @@ var profile =
 				"publication": "Hot Topics in Web Systems and Technologies (HotWeb)", 
 				"location": "Washington, DC, USA",
 				"date": "October 2016", 
-				"url" : "me-data/pubs/provide2016.pdf", 
+				"url" : "my-data/pubs/provide2016.pdf", 
 				"talks": [
 					{
 						"event": "Boston University Network Reading Group",
@@ -178,7 +178,7 @@ var profile =
 				"publication": "Proceedings of the 2016 ACM Workshop on Moving Target Defense", 
 				"location": "Vienna, Austria",
 				"date": "October 2016", 
-				"url" : "me-data/pubs/mtd2016.pdf", 
+				"url" : "my-data/pubs/mtd2016.pdf", 
 			},
 
 			{
@@ -206,7 +206,7 @@ var profile =
 				"publication": "International Conference on Data Mining (DMIN)",
 				"location": "Las Vegas, Nevada, USA", 
 				"date": "July 2014",
-				"url": "me-data/pubs/dmi2014.pdf",
+				"url": "my-data/pubs/dmi2014.pdf",
 			}, 
 
 			{
@@ -220,7 +220,7 @@ var profile =
 				"publication": "Stevens Institute of Technology",
 				"location": "Hoboken, New Jersy, USA",
 				"date": "December 2013",
-				"url" : "me-data/pubs/mastersthesis.pdf"
+				"url" : "my-data/pubs/mastersthesis.pdf"
 			},
 			{
 				"title": "Predicting Nerve Guidance Conduit Performance for Peripheral Nerve Regeneration Using Bootstrap Aggregated Neural Networks",
@@ -244,7 +244,7 @@ var profile =
 				"publication": "International Joint Conference on Neural Networks (IJCNN)",
 				"location": "Dallas, Texas, USA", 
 				"date": "August 2013",
-				"url" : "me-data/pubs/ijcnn2013.pdf"
+				"url" : "my-data/pubs/ijcnn2013.pdf"
 
 			},
 

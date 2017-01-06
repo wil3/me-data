@@ -1,4 +1,3 @@
-var profile = 
 {
 		"title": "Wil Koch",
 		"portrait": "my-data/pic.jpg",
@@ -16,33 +15,24 @@ var profile =
 
 
 		"publications" : [
-			/*
-			{ 
-				"title": "",
-				"authors": "",
-				"location": "",
-				"date": "",
-				"url": "",
-			}
-		    */
 			{ 
 				"title": "Semi-Automated Discovery of Server-Based Information Oversharing Vulnerabilities in Android Applications",
 				"authors": [
 					{
-						"name": "William Koch", 
+						"name": "William Koch"
 					},
 					{
-						"name": "Abdelberi Chaabane", 
+						"name": "Abdelberi Chaabane"
 					},
 					{
-						"name": "Manuel Egele", 
+						"name": "Manuel Egele"
 					},
 					{
-						"name": "William Robertson", 
+						"name": "William Robertson"
 					},
 					{
-						"name": "Engin Kirda", 
-					},
+						"name": "Engin Kirda"
+					}
 				],
 				"publication": "Under review",
 				"talks" : [
@@ -60,17 +50,17 @@ var profile =
 				"title": "PayBreak: Defense Against Cryptographic Ransomware",
 				"authors": [
 					{
-						"name": "Eugene Kolodenker",
+						"name": "Eugene Kolodenker"
 					},
 					{
-						"name": "William Koch", 
+						"name": "William Koch"
 					},
 					{
-						"name": "Gianluca Stringhini", 
+						"name": "Gianluca Stringhini"
 					},
 					{
-						"name": "Manuel Egele", 
-					},
+						"name": "Manuel Egele"
+					}
 				],
 				"publication": "Under review",
 				"talks" : [
@@ -87,34 +77,34 @@ var profile =
 						"name": "Samuel Jero"
 					},
 					{
-						"name": "William Koch", 
+						"name": "William Koch"
 					},
 					{
-						"name": "Rickard Skowyra", 
+						"name": "Rickard Skowyra"
 					},
 					{
-						"name":"Hamed Okhravi",
+						"name":"Hamed Okhravi"
 					},
 					{
-						"name":"Cristina Nita-Rotaru",
+						"name":"Cristina Nita-Rotaru"
 					},
 					{
-						"name":"David Bigelow",
+						"name":"David Bigelow"
 					}
 				],
-				"publication": "Under review",
+				"publication": "Under review"
 			},
 			{ 
 				"title": "Hyp3rArmor: Reducing Web Application Exposure to Automated Attacks",
 				"authors" : [
 
 								{
-									"name": "William Koch", 
+									"name": "William Koch"
 								},
 								{
 									"name": "Azer Bestavros", 
-									"url" : "http://azer.bestavros.net/", 
-								},
+									"url" : "http://azer.bestavros.net/"
+								}
 				],
 				"publication": "Under review",
 				"date": "November 2016",
@@ -132,12 +122,12 @@ var profile =
 				"authors" : [
 
 								{
-									"name": "William Koch", 
+									"name": "William Koch"
 								},
 								{
 									"name": "Azer Bestavros", 
-									"url" : "http://azer.bestavros.net/", 
-								},
+									"url" : "http://azer.bestavros.net/"
+								}
 				],
 				"publication": "Hot Topics in Web Systems and Technologies (HotWeb)", 
 				"location": "Washington, DC, USA",
@@ -150,7 +140,7 @@ var profile =
 					}, 
 					{
 						"event": "New England Networks and Systems Day (NENS)",
-						"date": "October 2016",
+						"date": "October 2016"
 					}
 				]
 			},
@@ -158,34 +148,34 @@ var profile =
 				"title" : "Markov Modeling of Moving Target Defense Games",
 				"authors" : [
 									{
-										"name": "Hoda Maleki", 
+										"name": "Hoda Maleki"
 									},
 									{
-										"name": "Saeed Valizadeh", 
+										"name": "Saeed Valizadeh"
 									},
 
 									{
-										"name": "William Koch", 
+										"name": "William Koch"
 									},
 									{
 										"name": "Azer Bestavros", 
-										"url" : "http://azer.bestavros.net/", 
+										"url" : "http://azer.bestavros.net/"
 									},
 									{
-										"name": "Marten van Dijk", 
-									},
+										"name": "Marten van Dijk"
+									}
 				],
 				"publication": "Proceedings of the 2016 ACM Workshop on Moving Target Defense", 
 				"location": "Vienna, Austria",
 				"date": "October 2016", 
-				"url" : "my-data/pubs/mtd2016.pdf", 
+				"url" : "my-data/pubs/mtd2016.pdf"
 			},
 
 			{
 				"title": "Using Bootstrap Aggregated Neural Networks for Peripheral Nerve Injury Treatment.",
 				"authors": [
 					{
-						"name":"Munish Shah",
+						"name":"Munish Shah"
 					},
 					{	
 						"name":"Wei Chang"
@@ -194,7 +184,7 @@ var profile =
 						"name": "Kathleen McGuire"
 					}, 
 					{
-						"name": "William Koch", 
+						"name": "William Koch" 
 					},
 					{
 						"name": "Yan Meng"
@@ -206,17 +196,16 @@ var profile =
 				"publication": "International Conference on Data Mining (DMIN)",
 				"location": "Las Vegas, Nevada, USA", 
 				"date": "July 2014",
-				"url": "my-data/pubs/dmi2014.pdf",
+				"url": "my-data/pubs/dmi2014.pdf"
 			}, 
 
 			{
 				"title": "A Framework for Assisting Learners by Incorporating Knowledge to Aid in Predicting Nerve Guidance Conduit Performance (Masters Thesis)",
 				"authors": [
 					{
-						"name": "William Koch", 
-					},
+						"name": "William Koch"
+					}
 				],
-				//"author": "William Koch", 
 				"publication": "Stevens Institute of Technology",
 				"location": "Hoboken, New Jersy, USA",
 				"date": "December 2013",
@@ -226,13 +215,13 @@ var profile =
 				"title": "Predicting Nerve Guidance Conduit Performance for Peripheral Nerve Regeneration Using Bootstrap Aggregated Neural Networks",
 				"authors": [
 					{
-						"name": "William Koch", 
+						"name": "William Koch"
 					},
 					{
 						"name": "Yan Meng"
 					},
 					{
-						"name":"Munish Shah",
+						"name":"Munish Shah"
 					},
 					{	
 						"name":"Wei Chang"
@@ -246,20 +235,10 @@ var profile =
 				"date": "August 2013",
 				"url" : "my-data/pubs/ijcnn2013.pdf"
 
-			},
+			}
 
 		],
 		"industry" : [
-			/*
-			{
-				"position": "",
-				"employer": "",
-				"start": "",
-				"end": "",
-				"description": ""
-			}
-		   */
-
 			{
 				"position": "Security Researcher",
 				"employer": "MIT Lincoln Laboratory",
@@ -296,13 +275,6 @@ var profile =
 
 
 		"projects" : [
-			/*
-			{
-				"title": "",
-				"description": ""
-			   
-			}
-		   */
 			{
 				"title": "Android Leak Hunter",
 				"description": "Automated large scale analysis of Android applications to identify potential information leakages through network connections",
@@ -319,7 +291,7 @@ var profile =
 			{
 				"title": "CloudSwitch",
 				"description": "Android application to easily toggle the state of your virtual machines by the push of a button. Allows the user to save money by only turning them on when needed.",
-				"url": "https://play.google.com/store/apps/details?id=com.github.wil3.cloudswitch.app&hl=en",
+				"url": "https://play.google.com/store/apps/details?id=com.github.wil3.cloudswitch.app&hl=en"
 			}
 		]
 }

@@ -114,6 +114,10 @@
 					{
 						"event": "New England Security Day",
 						"date": "November 2016"
+					},
+					{
+						"event": "BU CS Research Open House - 'Shields Up! Defense for evading reconnaissance and JavaScript driven L7 attacks'",
+						"date":"January 2016"
 					}
 				]
 			},

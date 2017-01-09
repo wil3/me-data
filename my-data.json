@@ -43,7 +43,11 @@
 					{
 						"event": "Boston University class on Cybersecurity",
 						"date": "Spring 2015"
-					}
+					}, 
+					{
+						"event": "Boston University Network Reading Group",
+						"date": "Fall 2015"
+					} 
 				]
 			},
 			{ 

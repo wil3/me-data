@@ -1,0 +1,23 @@
+
+/* Styles for carousel */
+#myCarousel {
+	background-color: #EEE;
+}
+.carousel-control.right, .carousel-control.left {
+    color: #f4511e;
+}
+
+.carousel-indicators li {
+    border-color: #f4511e;
+}
+
+.carousel-indicators li.active {
+    background-color: #f4511e;
+}
+.custom-bullet:before {
+	/* This is the color of the icons */
+	color: #f4511e;
+}
+
+
+

@@ -69,6 +69,7 @@
 				"publication": "To appear at ACM Asia Conference on Computer and Communications Security (ASIACCS)",
 				"location": "Abu Dhabi, UAE",
 				"date":"April 2017",
+				"url" : "my-data/pubs/paybreak.pdf", 
 				"talks" : [
 					{
 						"event": "Boston University Security on Practical Security",

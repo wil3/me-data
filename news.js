@@ -1,6 +1,6 @@
 var announce = [
 	{
-		"description": '<table><tr><td><img src="images/drone.png"/></td><td>I will be starting a Boston Drone Racing and Hacking club this summer, contact me for details.</td></tr></table>' 
+		"description": '<table><tr><td><img src="my-data/images/drone.png" style="width:70%;"/></td><td>I will be starting a Boston Drone Racing and Hacking club this summer, contact me for details.</td></tr></table>' 
 
 	},
 	{

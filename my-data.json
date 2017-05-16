@@ -16,6 +16,20 @@
 
 		"publications" : [
 			{ 
+				"title": "S3B: Software-defined Secure Server Bindings",
+				"authors" : [
+
+								{
+									"name": "William Koch"
+								},
+								{
+									"name": "Azer Bestavros", 
+									"url" : "http://azer.bestavros.net/"
+								}
+				],
+				"publication": "Under review",
+			},
+			{ 
 				"title": "Semi-Automated Discovery of Server-Based Information Oversharing Vulnerabilities in Android Applications",
 				"authors": [
 					{
@@ -34,7 +48,7 @@
 						"name": "Engin Kirda"
 					}
 				],
-				"publication": "Under review",
+				"publication": "To appear in International Symposium on Software Testing and Analysis (ISSTA) 2017",
 				"talks" : [
 					{
 						"event": "Boston University Security on Practical Security",
@@ -66,7 +80,7 @@
 						"name": "Manuel Egele"
 					}
 				],
-				"publication": "To appear at ACM Asia Conference on Computer and Communications Security (ASIACCS)",
+				"publication": "ACM Asia Conference on Computer and Communications Security (ASIACCS)",
 				"location": "Abu Dhabi, UAE",
 				"date":"April 2017",
 				"url" : "my-data/pubs/paybreak.pdf", 
@@ -99,7 +113,9 @@
 						"name":"David Bigelow"
 					}
 				],
-				"publication": "Under review"
+				"publication": "To appear in USENIX Security Symposium 2017",
+				"location": "Vancouver, BC, Canada", 
+				"date": "August 2017"
 			},
 			{ 
 				"title": "Hyp3rArmor: Reducing Web Application Exposure to Automated Attacks",

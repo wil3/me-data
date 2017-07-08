@@ -2,8 +2,8 @@
 		"title": "Wil Koch",
 		"portrait": "my-data/pic.jpg",
 		"name": "William Koch",
-		"position": "Cybersecurity Researcher",
-		"bio": "Hello world! My name is Wil Koch (pronounced 'cook') and I am a third year PhD student at Boston University advised by Azer Bestavros. I study autonomous malware (a.k.a. bots) and developing defenses for their attacks. Before returning to academia I was involved in a few start-ups and worked as a software engineer. I enjoy writing code and working on software projects. When I'm not behind a computer, you can find me drone racing, or depending on the season snowboarding, surfing or getting lost somewhere in the woods. ",
+		"position": "PhD Candidate",
+		"bio": "My name is Wil Koch (pronounced 'cook') and I am a PhD student at Boston University advised by Azer Bestavros. My current research is focused on improving multi-rotor drone flight performance. I have also conducted research in cyber-security primarily in developing defenses for automated attacks. Before returning to academia I was involved in a few start-ups and worked as a software engineer in the aerospace industry. He is the co-founder <a href="'http://www.cthackerspace.com/' target='_blank'>CT Hackerspace Inc</a>, Connecticut's oldest and largest hackerspace as well as the founder of <a href='http://www.bostondrone.racing'>Boston Drone Racing</a>, FPV quadcopter racing and hacking club in Boston. When I'm not behind a computer, you can find me drone racing, or depending on the season snowboarding, surfing or getting lost somewhere in the woods.",
 		"social" : {
 					"github": "https://github.com/wil3", 
 					"twitter": "https://twitter.com/wil_koch", 
@@ -48,11 +48,14 @@
 						"name": "Engin Kirda"
 					}
 				],
-				"publication": "To appear in International Symposium on Software Testing and Analysis (ISSTA) 2017",
+				"publication": "International Symposium on Software Testing and Analysis (ISSTA) 2017",
+				"location": "Santa Barbera, CA, USA",
+				"date":"July 2017",
+				"url" : "my-data/pubs/siphon.pdf", 
 				"talks" : [
 					{
 						"event": "Boston University Security on Practical Security",
-						"date": "Summer 2015"
+						"date": "Summer 2015, Summer 2017"
 					},
 					{
 						"event": "Boston University class on Cybersecurity",

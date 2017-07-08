@@ -119,7 +119,7 @@
 				"publication": "USENIX Security Symposium 2017",
 				"location": "Vancouver, BC, Canada", 
 				"date": "August 2017",
-				"url" : "my-data/pubs/binder.pdf", 
+				"url" : "my-data/pubs/binder.pdf" 
 			},
 			{ 
 				"title": "Hyp3rArmor: Reducing Web Application Exposure to Automated Attacks",

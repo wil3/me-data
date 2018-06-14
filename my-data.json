@@ -15,6 +15,31 @@
 
 
 		"publications" : [
+			{
+				"title": "Reinforcement Learning for UAV Attitude Control",
+				"url":"https://arxiv.org/pdf/1804.04154.pdf",
+				"code": "https://github.com/wil3/gymfc",
+				"publication": "Under review",
+				"authors": [
+								{
+									"name": "William Koch"
+								},
+								{
+									"name":"Renato Mancuso",
+									"url":"http://cs-people.bu.edu/rmancuso/"
+								},
+								{
+									"name":"Richard West", 
+									"url":"https://www.cs.bu.edu/~richwest/index2.html"
+								},
+								{
+									"name": "Azer Bestavros", 
+									"url" : "http://azer.bestavros.net/"
+								}
+
+				]
+
+			},
 			{ 
 				"title": "S3B: Software-defined Secure Server Bindings",
 				"authors" : [
@@ -30,6 +55,7 @@
 				"publication": "To appear in ICDCS 2018",
 				"url" : "my-data/pubs/s3b.pdf",
 				"location": "Vienna, Austria",
+				"code":"https://github.com/wil3/s3b",
 				"date":"July 2018"
 			},
 			{ 

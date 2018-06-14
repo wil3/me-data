@@ -27,7 +27,10 @@
 									"url" : "http://azer.bestavros.net/"
 								}
 				],
-				"publication": "Under review"
+				"publication": "To appear in ICDCS 2018",
+				"url" : "my-data/pubs/s3b.pdf",
+				"location": "Vienna, Austria",
+				"date":"July 2018"
 			},
 			{ 
 				"title": "Semi-Automated Discovery of Server-Based Information Oversharing Vulnerabilities in Android Applications",
